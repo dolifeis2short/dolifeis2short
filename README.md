@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dolifeis2short&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dolifeis2short&repo=dolifeis2short)](https://github.com/anuraghazra/github-readme-stats)
 
 ## [About Me](https://lazyren.github.io/about/)
 
