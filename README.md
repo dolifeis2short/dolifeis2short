@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](ithub-readme-stats.vercel.app/api?username=dolifeis2short&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](github-readme-stats.vercel.app/api?username=dolifeis2short&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## [About Me](https://lazyren.github.io/about/)
