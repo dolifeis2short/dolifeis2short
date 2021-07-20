@@ -1,44 +1,46 @@
-This repository is no longer maintained. 
-============
 
-Herring Cove
-============
+## 소개
 
-Herring Cove is a clean and responsive theme for Jekyll. 
+안녕하세요, 저는 박민입니다. 재밌는 것과 디자인, 개발을 좋아하는 개발자입니다.
 
+다른 사람들에게 영감과 영향을 주고 싶어서 개발자가 되었습니다. 전세계 사람들의 여행을 바꾼 에어비엔비, 일상을 바꾼 페이스북등을 존경합니다.
 
-### Overview 
+예쁘고 단순한 것을 좋아합니다. React를 주로 사용하며 최근엔 프론트엔드를 위주로 공부하고 있습니다.
 
-* Fixed Sidebar with social links
-* Minimal design 
-* Comments by Disqus
-* Social Sharing abilities 
-* Easy to configure
-* Based on Bootstrap
+사람들을 만나는 걸 좋아하고, 그들과 함께 웃는 것을 좋아합니다. 혼자 어디 박혀서 코딩한다거나 뒹굴거리는 시간도 좋아합니다. 좋아하는게 많은 타입인 것 같아요.
 
-### Screenshots
+시스템을 상당히 좋아합니다. 서비스의 체계뿐만 아니라, 조직 체계, 운영 체계등 올바르게 돌아갈 수 있도록 뒷받침해주는 시스템적인 요소를 좋아합니다.
 
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
+CTO가 되는게 가장 큰 직업적 목표입니다.
 
-### Setup
+반갑습니다.
 
-1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
-3. Edit the `_config.yml` file
+## 약력
 
-You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
+- 위즈돔에서 Spring기반의 굿모닝미리(경기도 좌석예약버스)앱 개발
 
-### Download
+- 위즈돔에서 React로 SK/Kakao 통근 버스 예약 앱 개발
 
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
+- 이해라이프스타일에서 ReactNative로 홈퍼니싱 하이브리드 앱 개발
 
-### License
-* [MIT](http://opensource.org/licenses/MIT)
+- 숭실대학교 IT대학 컴퓨터학부 전공
 
--------------
-Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
+- 숭실대학교 IT대학 학생회장
 
-*What's with the name?*
+- 계남초/계남중/계남고 졸업
 
-[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
+- 경기도 부천 출생
+
+## 사이드프로젝트
+
+- [react-redux-material-meteor](https://github.com/isme2n/react-redux-material-meteor) - 보일러 플레이트
+
+- [48Wedding](http://48wedding.com) - 웨딩카드 만들기 서비스
+
+- [secretary](https://chrome.google.com/webstore/detail/secretary/bijcgcgbhmeemlnidoigdcnokggknikb?hl=ko) - 기사요약 크롬 확장서비스
+
+## 하고싶은 말
+
+다양한 사이드 프로젝트 제안, 친구 제안, 번개 제안 등등 해주시면 좋아합니다.
+
+행복하세요 오늘도.
