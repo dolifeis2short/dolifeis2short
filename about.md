@@ -1,64 +1,72 @@
 ---
-layout: about
+layout: welcome
 title: About
-menu: true
-order: 10
+permalink: /about/
+more_posts: posts.md
+sidebar: true
+order: 1
 ---
 
-## 소개
+## Hello, World!
 
-안녕하세요, 저는 박민입니다. 재밌는 것과 디자인, 개발을 좋아하는 개발자입니다.
+Hi, I'm **DaeIn Lee**, *a.k.a.* **Lazy Ren**.<br>
+I'm currently working at **[SAP Labs Korea]**, and previsouly was CSE student of **[Hanyang University]**.<br>
+I like to solve brain teasing problems in field of CSE (probably the reason I liked multi-core programming / OS courses).<br>
+And I'm also a [heavy gamer]!<br>
+Pleaseh check my [resume] if you wish to know more about me.
 
-다른 사람들에게 영감과 영향을 주고 싶어서 개발자가 되었습니다. 전세계 사람들의 여행을 바꾼 에어비엔비, 일상을 바꾼 페이스북등을 존경합니다.
+***
 
-예쁘고 단순한 것을 좋아합니다. React를 주로 사용하며 최근엔 프론트엔드를 위주로 공부하고 있습니다.
+<!--posts_list-->
 
-사람들을 만나는 걸 좋아하고, 그들과 함께 웃는 것을 좋아합니다. 혼자 어디 박혀서 코딩한다거나 뒹굴거리는 시간도 좋아합니다. 좋아하는게 많은 타입인 것 같아요.
+***
 
-시스템을 상당히 좋아합니다. 서비스의 체계뿐만 아니라, 조직 체계, 운영 체계등 올바르게 돌아갈 수 있도록 뒷받침해주는 시스템적인 요소를 좋아합니다.
+## Work Hard to be Lazy
 
-CTO가 되는게 가장 큰 직업적 목표입니다.
+_My motto to live by._
+{:.lead}
 
-반갑습니다.
+> “Working hard to be lazy basically means investing the extra effort (working hard) at first so that it will pay off in the long run (be lazy).”
 
-## 약력
+## Re-evaluate your work processes
 
-- 위즈돔에서 Spring기반의 굿모닝미리(경기도 좌석예약버스)앱 개발
+The lazy man will try to accomplish 2 hours worth of work in 1 hour’s time but sometimes at the expense of the work’s quality.<br>
+Think of it as **efficiency = quality/time** taken (referencing speed = distance/over).<br>
+If the time taken is reduced, either the job’s quality has to be lowered or the efficiency must be increased. Efficiency really relates to the work process.<br>
+So in order to keep the quality the same and reduce the time taken, the work process must be changed.
 
-- 위즈돔에서 React로 SK/Kakao 통근 버스 예약 앱 개발
+## Don’t repeat yourself
 
-- 이해라이프스타일에서 ReactNative로 홈퍼니싱 하이브리드 앱 개발
+After evaluating what you do, you may have some ideas of what you want to improve or modify.<br>
+Break it down to its core.
 
-- 숭실대학교 IT대학 컴퓨터학부 전공
+## Try a new process
 
-- 숭실대학교 IT대학 학생회장
+Be open to completely changing the way you work.<br>
+You can’t expect to become more productive unless you pay a price at first.
 
-- 계남초/계남중/계남고 졸업
+## Refine yourself
 
-- 경기도 부천 출생
+By refining yourself I mean going through this work hard to be lazy process in iterations.<br>
+Try a new process, if that doesn’t help as much as you hoped, try another process.<br>
+The worst thing that could happen is that you don’t find any improvement in your work process and go back to your original process and just work hard.<br>
+Did you lose anything?
 
-## 사이드프로젝트
+[original post]
 
-- [react-redux-material-meteor](https://github.com/isme2n/react-redux-material-meteor) - 보일러 플레이트
+***
 
-- [48Wedding](http://48wedding.com) - 웨딩카드 만들기 서비스
+Blog created by DaeIn Lee on July 19. 2018 in Vancouver,<br>
+based on the jekyll theme [Hydejack].
 
-- [secretary](https://chrome.google.com/webstore/detail/secretary/bijcgcgbhmeemlnidoigdcnokggknikb?hl=ko) - 기사요약 크롬 확장서비스
+***
 
-- [이미지필터](https://github.com/isme2n/react-image-filter-app) - 캔버스 이미지 필터를 공부하며 만든 샘플 앱
+<!--author-->
 
-- [유튜브 함께보기](https://youtu.be/7IFEO9D6G4Y) - 유튜브 동영상을 다른사람들과 함께 보며 대화를 나누는 앱
-
-## 발표
-
-- [GDG Summer Party 테크니컬 세션 - 자바스크립트 제대로 알기](https://www.slideshare.net/MinPark48/ss-79004233)
-
-## 강의
-
-- [React로 라이브 컴파일러 만들기](https://www.youtube.com/playlist?list=PLBrx45N7b6tkdisu8ZhKs02tEf5wDuk2W)
-
-## 하고싶은 말
-
-다양한 사이드 프로젝트 제안, 친구 제안, 번개 제안 등등 해주시면 좋아합니다.
-
-행복하세요 오늘도.
+<!-- Links -->
+[SAP Labs Korea]: https://www.sap.com/korea/about/labs-korea.html
+[Hanyang University]: https://www.hanyang.ac.kr/
+[heavy gamer]: https://steamcommunity.com/id/lazyren
+[resume]: /resume/
+[original post]: http://blog.vivekmahbubani.com/2007/03/work-hard-to-be-lazy.html
+[Hydejack]: https://hydejack.com

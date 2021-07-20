@@ -1,6 +1,6 @@
 # Ignore docs files
 _gh_pages
-_site
+_site*
 _drafts
 .ruby-version
 
@@ -12,7 +12,6 @@ _drafts
 *.rej
 *.swo
 *.swp
-*.zip
 *.vi
 *~
 
@@ -39,7 +38,13 @@ validation-status.json
 validation-report.json
 
 # Folders to ignore
+.vscode
 node_modules
+.bundle
+.jekyll-cache
 .sass-cache
 .jekyll-metadata
+vendor
 *.gem
+_zip
+/stats.json
