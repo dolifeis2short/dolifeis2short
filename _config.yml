@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://LazyRen.github.io
+url:                   https://dolifeis2short.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -23,20 +23,19 @@ baseurl:               ''
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Lazy Ren
+title:                 Dev Choa
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Work Hard to be Lazy.
-  SW Engineer at Samsung Research.
+  Life without regrets.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Work Hard to be Lazy.
+  Life without regrets.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Happy]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -46,14 +45,14 @@ logo:                  /assets/img/seattle.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                DaeIn Lee
-  email:               daein0lee@gmail.com
+  name:                GyeongWon Choi
+  email:               dolifeis2short@gmail.com
   picture:             /assets/img/seattle.png
   social:
-    linkedin:        daein-lee-3b6ba9139
-    github:          lazyren
-    stackoverflow:   4294737
-    email:           daein0lee@gmail.com
+    linkedin:
+    github:          dolifeis2short
+    stackoverflow:
+    email:           dolifeis2short@gmail.com
 
 # Add links to the sidebar.
 # menu:
