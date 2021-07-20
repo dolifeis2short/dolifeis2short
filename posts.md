@@ -1,7 +1,6 @@
 ---
 layout: list
 title: Posts
-description: >
-  All the posts in blog.
-grouped: true
+# menu: true
+# order: 2
 ---
