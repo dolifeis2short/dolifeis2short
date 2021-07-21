@@ -5,14 +5,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dolifeis2short&repo=dolifeis2short)](https://github.com/anuraghazra/github-readme-stats)
 
-## [About Me](https://lazyren.github.io/about/)
+## [About Me]
 
-Hello, there!<br>
-This blog is to post whatever I feel like to.<br>
-I like writing & organizing stuffs as much as reading, so I've decided to dedicate my times to make this blog.<br>
-Before this, I used to have [Tistory blog](https://lazyren.tistory.com/), but is no longer maintained.<br>
 
-Please feel free to contact me for any questions!
 
 ## About Hydejack
 
