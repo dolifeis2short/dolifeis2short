@@ -132,17 +132,17 @@
             "date_modified": "2020-02-19T13:00:00.000Z"
         },
         {
-            "id": "https://choa.info/Book/OOP-Principle/01-Loved-Human/",
-            "url": "https://choa.info/Book/OOP-Principle/01-Loved-Human/",
-            "title": "01 사람을 사랑한 기술 | 객체지향의 원리와 이해",
-            "summary": "객체지향이라는 개념이 나오기 까지의 이유와 간략한 역사를 소개합니다.",
-            "date_modified": "2020-02-18T13:00:00.000Z"
-        },
-        {
             "id": "https://choa.info/Book/OOP-Principle/02-Java-As-PL/",
             "url": "https://choa.info/Book/OOP-Principle/02-Java-As-PL/",
             "title": "02 프로그래밍 언어로서의 자바 | 객체지향의 원리와 이해",
             "summary": "프로그래밍 언어로서의 Java가 가지고 있는 여러 가지 특성들을 알아보고 이해하여봅시다.",
+            "date_modified": "2020-02-18T13:00:00.000Z"
+        },
+        {
+            "id": "https://choa.info/Book/OOP-Principle/01-Loved-Human/",
+            "url": "https://choa.info/Book/OOP-Principle/01-Loved-Human/",
+            "title": "01 사람을 사랑한 기술 | 객체지향의 원리와 이해",
+            "summary": "객체지향이라는 개념이 나오기 까지의 이유와 간략한 역사를 소개합니다.",
             "date_modified": "2020-02-18T13:00:00.000Z"
         },
         {
