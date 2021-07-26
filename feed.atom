@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://choa.info/</id>
     <title>개발자</title>
-    <updated>2021-07-26T07:38:28.850Z</updated>
+    <updated>2021-07-26T07:46:54.420Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://choa.info/"/>
     <link rel="self" href="https://choa.info/feed.atom"/>
