@@ -4,7 +4,7 @@
         <title>개발자</title>
         <link>https://choa.info/</link>
         <description>Today I leanred</description>
-        <lastBuildDate>Mon, 26 Jul 2021 02:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 03:45:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://choa.info/feed.atom" rel="self" type="application/rss+xml"/>
@@ -149,18 +149,18 @@
             <description><![CDATA[클래스, 객체, 추상화, 상속, 캡슐화, 다형성 등 객체지향의 기본적인 개념에 대해 이해하여봅시다.]]></description>
         </item>
         <item>
-            <title><![CDATA[02 프로그래밍 언어로서의 자바 | 객체지향의 원리와 이해]]></title>
-            <link>https://choa.info/Book/OOP-Principle/02-Java-As-PL/</link>
-            <guid>https://choa.info/Book/OOP-Principle/02-Java-As-PL/</guid>
-            <pubDate>Tue, 18 Feb 2020 13:00:00 GMT</pubDate>
-            <description><![CDATA[프로그래밍 언어로서의 Java가 가지고 있는 여러 가지 특성들을 알아보고 이해하여봅시다.]]></description>
-        </item>
-        <item>
             <title><![CDATA[01 사람을 사랑한 기술 | 객체지향의 원리와 이해]]></title>
             <link>https://choa.info/Book/OOP-Principle/01-Loved-Human/</link>
             <guid>https://choa.info/Book/OOP-Principle/01-Loved-Human/</guid>
             <pubDate>Tue, 18 Feb 2020 13:00:00 GMT</pubDate>
             <description><![CDATA[객체지향이라는 개념이 나오기 까지의 이유와 간략한 역사를 소개합니다.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[02 프로그래밍 언어로서의 자바 | 객체지향의 원리와 이해]]></title>
+            <link>https://choa.info/Book/OOP-Principle/02-Java-As-PL/</link>
+            <guid>https://choa.info/Book/OOP-Principle/02-Java-As-PL/</guid>
+            <pubDate>Tue, 18 Feb 2020 13:00:00 GMT</pubDate>
+            <description><![CDATA[프로그래밍 언어로서의 Java가 가지고 있는 여러 가지 특성들을 알아보고 이해하여봅시다.]]></description>
         </item>
         <item>
             <title><![CDATA[2020년 1월 회고]]></title>
