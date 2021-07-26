@@ -4,7 +4,7 @@
         <title>개발자</title>
         <link>https://choa.info/</link>
         <description>Today I leanred</description>
-        <lastBuildDate>Mon, 26 Jul 2021 04:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jul 2021 04:47:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://choa.info/feed.atom" rel="self" type="application/rss+xml"/>
@@ -174,7 +174,9 @@
             <link>https://choa.info/</link>
             <guid>https://choa.info/</guid>
             <pubDate>Wed, 01 Jan 2020 13:00:00 GMT</pubDate>
-            <description><![CDATA[어제보다 나아지는 오늘이되자!]]></description>
+            <description><![CDATA[매일 변화하는 기술에 관심이 많으며, 호기심이 많습니다.
+항상 겸손한 태도로 배우고자 하며, 끊임없이 노력하고자 합니다.
+세상을 변화시키는 긍정의 힘을 믿으며, 어제보다 나은 오늘을 만들고 싶습니다.]]></description>
             <enclosure url="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dolifeis2short">
             </enclosure>
         </item>
