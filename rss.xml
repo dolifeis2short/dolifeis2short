@@ -4,7 +4,7 @@
         <title>개발자</title>
         <link>https://choa.info/</link>
         <description>Today I leanred</description>
-        <lastBuildDate>Mon, 26 Jul 2021 07:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 14:39:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://choa.info/feed.atom" rel="self" type="application/rss+xml"/>
