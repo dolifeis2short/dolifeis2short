@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "개발자",
+    "title": "CHOA",
     "home_page_url": "https://choa.info/",
     "feed_url": "https://choa.info/feed.json",
-    "description": "Today I leanred",
+    "description": "Today I learn",
     "items": [
         {
-            "id": "https://choa.info/_review/2021/01-First-Quarter/",
-            "url": "https://choa.info/_review/2021/01-First-Quarter/",
+            "id": "https://choa.info/_4_days/2021/01-First-Quarter/",
+            "url": "https://choa.info/_4_days/2021/01-First-Quarter/",
             "title": "주니어 개발자의 2021년 상반기 회고",
             "summary": "주니어 개발자의 2021년 상반기 회고",
             "image": "https://choa.info/Review/2020-year/end/thumbnail.jpg",
