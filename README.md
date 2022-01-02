@@ -1,3 +1,4 @@
 WELCOME!!
 
-Now, Blog Pages Open Limited ~ 2021.12.31 
+Now, Blog FIRST Open - 2022.01.02 
+
